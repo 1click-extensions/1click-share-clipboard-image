@@ -1,0 +1,1 @@
+# 1click-share-clipboard-image
